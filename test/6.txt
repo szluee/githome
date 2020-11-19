@@ -1,1 +1,3 @@
 git home add a file 6.txt
+Creating a new branch is quick
+
